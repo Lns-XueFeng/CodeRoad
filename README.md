@@ -2,12 +2,12 @@
 
 ### CS基础<hr>
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
-* [Code Complete 2](https://book.douban.com/subject/35216782/)
-* [编码（隐匿在......）](https://book.douban.com/subject/4822685/)
-* [操作系统导论](https://book.douban.com/subject/33463930/)
-* [计算机网络](https://book.douban.com/subject/35498120/)
 * [Python数据结构与算法](https://book.douban.com/subject/34785178/)
-* [微积分的力量](https://book.douban.com/subject/35292688/)
+* [网络是怎样连接的](https://book.douban.com/subject/26941639/)
+* [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
+* [人人都懂设计模式](https://book.douban.com/subject/33399755/)
+* [操作系统导论](https://book.douban.com/subject/33463930/)
+* [Code Complete 2](https://book.douban.com/subject/35216782/)
 
 ### Python<hr>
 * [Python语法笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0)
