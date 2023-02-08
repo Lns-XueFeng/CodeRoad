@@ -32,7 +32,7 @@
 * [XueFengBlog](https://github.com/Lns-XueFeng/XueFengBlog)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 
-### 其他<hr>
+### Others<hr>
 * [Git Branch](https://learngitbranching.js.org/)
 * [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 * [Linux命令](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
