@@ -28,16 +28,8 @@
 * [XueFengBlog](https://github.com/Lns-XueFeng/XueFengBlog)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 
-### Java<hr>
-* [Java核心](#)（未完成）
-* [Java容器](#)（未完成）
-* [Java并发](#)（未完成）
-* [Java虚拟机](#)（未完成）
-* [Spring三件套](#)（未完成）
-
 ### 其他<hr>
 * [Git Branch](https://learngitbranching.js.org/)
 * [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 * [Linux命令](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
 * [SQL及MySQL](#)（未完成）
-* [Maven工程构建](#)（未完成）
