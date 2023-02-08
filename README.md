@@ -10,19 +10,22 @@
 
 ### Python<hr>
 * [Python语法笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0)
-* [Python标准库](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%9A%84%E6%A0%87%E5%87%86%E5%BA%93)、[第三方库](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93)
+* [Python标准库]([https://learnku.com/docs/pymotw](https://docs.python.org/zh-cn/3/library/index.html))、[实例教程](https://learnku.com/docs/pymotw)
 * [Python爬虫笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E7%AC%94%E8%AE%B0)
 * [Python使用技巧](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
-* [Python Flask笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
+* [Python-Flask](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 
 ### Web基础<hr>
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
 * [DOM编程艺术](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/dom-art-program)
 * [JQuery-API](https://www.jquery123.com/)
 
-### Web项目
+### SomeProjects
+* [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
 * [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
+* [KuWoMusicSpider](https://github.com/Lns-XueFeng/KuWoMusicSpider)
 * [Blog1](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog1)
+* [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [Blog2](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog2)
 * [SayHello](https://github.com/Lns-XueFeng/SayHello/tree/master/sayhello)
 * [XueFengBlog](https://github.com/Lns-XueFeng/XueFengBlog)
