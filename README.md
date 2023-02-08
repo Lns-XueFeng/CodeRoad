@@ -2,6 +2,7 @@
 
 ### CS基础<hr>
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
+* [Code Complete 2](https://book.douban.com/subject/35216782/)
 * [编码（隐匿在......）](https://book.douban.com/subject/4822685/)
 * [操作系统导论](https://book.douban.com/subject/33463930/)
 * [计算机网络](https://book.douban.com/subject/35498120/)
