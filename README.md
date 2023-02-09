@@ -12,7 +12,7 @@
 ### Python<hr>
 * [Python语法笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0)
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
-* [Python爬虫笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E7%AC%94%E8%AE%B0)
+* [Python爬虫集合](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E7%AC%94%E8%AE%B0)
 * [Python使用技巧](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 
 ### Web基础<hr>
@@ -32,8 +32,8 @@
 * [XueFengBlog](https://github.com/Lns-XueFeng/XueFengBlog)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 
-### Others<hr>
-* [Git Branch](https://learngitbranching.js.org/)
+### OtherTools<hr>
+* [GitBranch](https://learngitbranching.js.org/)
 * [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 * [Linux命令](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
 * [SQL及MySQL](#)（未完成）
