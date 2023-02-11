@@ -23,8 +23,8 @@
 
 ### 数据库<hr>
 * [SQL](#)
-* [MySQL](#)- 待掌握
-* [Redis](#)- 待掌握
+* [MySQL](#) - 待掌握
+* [Redis](#) - 待掌握
 
 ### SomeProjects
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
