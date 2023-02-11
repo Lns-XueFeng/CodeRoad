@@ -29,7 +29,7 @@
 ### SomeProjects
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
 * [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
-* [KuWoMusicSpider](https://github.com/Lns-XueFeng/KuWoMusicSpider)
+* [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
 * [Blog1](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog1)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [Blog2](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog2)
