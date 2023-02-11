@@ -15,7 +15,7 @@
 * [Python爬虫集合](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E7%AC%94%E8%AE%B0)
 * [Python使用技巧](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
 
-### Web基础<hr>
+### Web相关<hr>
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
 * [DOM编程艺术](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/dom-art-program)
 * [JQuery-API](https://www.jquery123.com/)
@@ -23,8 +23,8 @@
 
 ### 数据库<hr>
 * [SQL](#)
-* [MySQL](#)-待掌握
-* [Redis](#)-待掌握
+* [MySQL](#)- 待掌握
+* [Redis](#)- 待掌握
 
 ### SomeProjects
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
