@@ -10,7 +10,7 @@
 * [Code Complete 2](https://book.douban.com/subject/35216782/)
 
 ### Python<hr>
-* [Python语法笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0)|[官方文档](https://docs.python.org/zh-cn/3/tutorial/index.html)
+* [Python语法笔记](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0)[、官方文档](https://docs.python.org/zh-cn/3/tutorial/index.html)
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
 * [Python爬虫集合](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E6%97%A5%E8%AE%B0)
 * [Python使用技巧](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
