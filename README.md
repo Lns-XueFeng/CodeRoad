@@ -21,6 +21,11 @@
 * [JQuery-API](https://www.jquery123.com/)
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 
+### 数据库<hr>
+* [SQL](#)
+* [MySQL](#)-待掌握
+* [Redis](#)-待掌握
+
 ### SomeProjects
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
 * [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
@@ -36,4 +41,3 @@
 * [GitBranch](https://learngitbranching.js.org/)
 * [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 * [Linux命令](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
-* [SQL及MySQL](#)（未完成）
