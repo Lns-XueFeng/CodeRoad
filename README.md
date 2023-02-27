@@ -24,7 +24,7 @@
 
 ### 数据库<hr>
 * [SQL](#)
-* [MySQL](#) - 待掌握
+* [MySQL](https://github.com/C10H16/MySQL-notes)
 * [Redis](#) - 待掌握
 
 ### SomeProjects
