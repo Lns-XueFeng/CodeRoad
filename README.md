@@ -37,6 +37,7 @@
 * [SayHello](https://github.com/Lns-XueFeng/SayHello/tree/master/sayhello)
 * [XueFengBlog](https://github.com/Lns-XueFeng/XueFengBlog)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
+* [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 
 ### OtherTools<hr>
 * [GitBranch](https://learngitbranching.js.org/)
