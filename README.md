@@ -1,4 +1,4 @@
-# Code Never Stop
+## Just Code It
 
 ### CS基础<hr>
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
