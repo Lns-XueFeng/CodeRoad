@@ -20,7 +20,7 @@
 * [JQuery-API](https://www.jquery123.com/)
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 
-### 数据库<hr>
+### DataBase<hr>
 * [SQL](https://www.runoob.com/sql/sql-tutorial.html)
 * [MySQL](https://github.com/C10H16/MySQL-notes)
 * [Redis](https://www.runoob.com/redis/redis-tutorial.html)
