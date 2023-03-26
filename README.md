@@ -18,8 +18,8 @@
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
 * [DOM编程艺术](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/dom-art-program)
 * [JQuery-API](https://www.jquery123.com/)
-* [WebServer](#)
-* [Werkzeug](#)
+* [WriteWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
+* [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 
 ### DataBase<hr>
