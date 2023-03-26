@@ -33,7 +33,6 @@
 * [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
 * [Blog1](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog1)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
-* [Blog2](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog2)
 * [SayHello](https://github.com/Lns-XueFeng/SayHello)
 * [Blog3](https://github.com/Lns-XueFeng/Blog3)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
