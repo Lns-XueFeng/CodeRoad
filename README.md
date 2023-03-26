@@ -38,7 +38,7 @@
 * [Blog3](https://github.com/Lns-XueFeng/Blog3)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
-* [ViliviliWeb](https://github.com/Lns-XueFeng/ViliviliWeb)
+* [ViliServer](https://github.com/Lns-XueFeng/ViliServer)
 
 ### OtherTools<hr>
 * [GitBranch](https://learngitbranching.js.org/)
