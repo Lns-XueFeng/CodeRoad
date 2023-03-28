@@ -1,4 +1,5 @@
 ### CS基础<hr>
+* [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
 * [Java面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3.md)
 * [Python数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)
@@ -18,7 +19,7 @@
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
 * [DOM编程艺术](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/dom-art-program)
 * [JQuery-API](https://www.jquery123.com/)
-* [TCP/IP简述](https://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
+* [Internet](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)、[TCP/IP](https://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 * [HTTP协议入门](https://www.ruanyifeng.com/blog/2016/08/http.html)
 * [WriteWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
 * [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
