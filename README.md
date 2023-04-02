@@ -45,7 +45,7 @@
 * [GitBranch](https://learngitbranching.js.org/)
 * [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 * [Linux命令](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
-* [TrowAwayMouse](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux/throw_away_mouse.md)
+* [ThrowAwayMouse](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux/throw_away_mouse.md)
 
 ### 扩展阅读<hr>
 * [黑客与画家](https://book.douban.com/subject/6021440/)
