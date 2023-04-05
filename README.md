@@ -25,8 +25,7 @@
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 
 ### DataBase<hr>
-* [SQL](https://www.runoob.com/sql/sql-tutorial.html)
-* [MySQL](https://github.com/C10H16/MySQL-notes)
+* [MySQL](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/2.5.%E6%95%B0%E6%8D%AE%E5%BA%93/3.MySQL_for_Python.md)
 * [Redis](https://www.runoob.com/redis/redis-tutorial.html)
 
 ### SomeProjects
