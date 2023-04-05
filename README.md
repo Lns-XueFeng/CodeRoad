@@ -29,6 +29,7 @@
 * [Redis](https://www.runoob.com/redis/redis-tutorial.html)
 
 ### SomeProjects
+* [quick_learn](https://github.com/Lns-XueFeng/quick_learn)
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
 * [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
 * [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
