@@ -34,7 +34,6 @@
 * [Blog1](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog1)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [Blog3](https://github.com/Lns-XueFeng/Blog3)
-* [SayHello](https://github.com/Lns-XueFeng/SayHello)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)
