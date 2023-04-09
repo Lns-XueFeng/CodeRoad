@@ -2,9 +2,9 @@
 * [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
 * [Java面向对象思想](https://github.com/Lns-XueFeng/StartJava)
-* [Python数据结构与算法](https://github.com/Lns-XueFeng/Algorithm) -ing
+* [Python数据结构与算法-ing](https://github.com/Lns-XueFeng/Algorithm)
 * [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
-* [操作系统导论](https://book.douban.com/subject/33463930/) -ing
+* [操作系统导论-ing](https://book.douban.com/subject/33463930/)
 * [计算机网络(自顶向下方法)](https://book.douban.com/subject/30280001/)
 
 ### Python<hr>
@@ -23,7 +23,7 @@
 * [WriteWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
 * [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
-* [MySQL](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/2.5.%E6%95%B0%E6%8D%AE%E5%BA%93/3.MySQL_for_Python.md) -ing
+* [MySQL-ing](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/2.5.%E6%95%B0%E6%8D%AE%E5%BA%93/3.MySQL_for_Python.md) 
 
 ### SomeProjects
 * [quick_learn](https://github.com/Lns-XueFeng/quick_learn)
