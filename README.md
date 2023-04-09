@@ -17,7 +17,6 @@
 ### Web相关<hr>
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
 * [DOM编程艺术](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/dom-art-program)
-* [JQuery-API](https://www.jquery123.com/)
 * [互联网协议](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)、[TCP/IP](https://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 * [HTTP协议入门](https://www.ruanyifeng.com/blog/2016/08/http.html)
 * [WriteWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
