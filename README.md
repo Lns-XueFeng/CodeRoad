@@ -48,3 +48,14 @@
 * [史蒂夫-乔布斯传](https://book.douban.com/subject/25810506/)
 * [代码大全2](https://book.douban.com/subject/35216782/)
 * [微积分的力量](https://book.douban.com/subject/35292688/)
+
+### 大概顺序<hr>
+* [C语言入门编程](#)
+* [Python基础、爬虫](#)
+* [了解Python常见库](#)
+* [Python进阶、数据结构与算法](#)
+* [了解HTML-CSS-JS-DOM](#)
+* [SQL、Flask、HTTP](#)
+* [了解Java、计组、计网](#)
+* [C进阶、操作系统、汇编入门](#)
+* [目前正在：Web后端、MySQL、系统](#)
