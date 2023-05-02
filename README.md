@@ -2,7 +2,7 @@
 * [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 * [C语言基础语法](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/CCCCCCCCc%E8%AF%AD%E8%A8%80)
 * [Java面向对象思想](https://github.com/Lns-XueFeng/StartJava)
-* [Python数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)-ING
+* [数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)
 * [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
 * [操作系统导论](https://book.douban.com/subject/33463930/)-ING
 * [计算机网络(自顶向下方法)](https://book.douban.com/subject/30280001/)
