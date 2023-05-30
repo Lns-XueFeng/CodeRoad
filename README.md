@@ -24,7 +24,6 @@
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)-ING
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)-ING
-* [MiniBlog](https://github.com/Lns-XueFeng/MiniBlog)-ING
 
 ### 网站开发<hr>
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
