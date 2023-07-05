@@ -22,7 +22,6 @@
 * [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
 * [WebProjects](https://github.com/Lns-XueFeng/WebProjects)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
-* [Blog3](https://github.com/Lns-XueFeng/Blog3)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)-ING
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)-ING
@@ -34,10 +33,10 @@
 * [Bootstrap框架](https://v3.bootcss.com/)
 * [互联网协议](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)、[TCP/IP](https://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 * [HTTP协议入门](https://www.ruanyifeng.com/blog/2016/08/http.html)
-* [WriteWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
+* [WebServerNotes](https://github.com/Lns-XueFeng/KnowWebServer)
 * [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
-* [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
-* [MySQL](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/2.5.%E6%95%B0%E6%8D%AE%E5%BA%93/3.MySQL_for_Python.md)
+* [FlaskNotes](#)
+* [MySQLNotes](#)
 
 ### 第三方库<hr>
 * [Requests](https://github.com/psf/requests)
@@ -51,13 +50,6 @@
 * [Jinja](https://github.com/pallets/jinja)
 * [Werkzeug](https://github.com/pallets/werkzeug)
 * [rustlings](https://github.com/rust-lang/rustlings)
-
-### 实用工具<hr>
-
-* [GitBranch](https://learngitbranching.js.org/)
-* [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
-* [Linux相关](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux)
-* [ThrowAwayMouse](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Linux/throw_away_mouse.md)
 
 ### 扩展阅读<hr>
 
