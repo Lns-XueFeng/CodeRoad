@@ -2,13 +2,12 @@
 
 * [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 * [C语言基础语法](https://wangdoc.com/clang/)
-* [Java面向对象思想](https://github.com/Lns-XueFeng/StartJava)
 * [数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)
 * [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
 * [操作系统导论](https://book.douban.com/subject/33463930/)
 * [计算机网络(自顶向下方法)](https://book.douban.com/subject/30280001/)
 
-### 主力语言<hr>
+### 编程语言<hr>
 
 * [Rust语言基础](https://kaisery.github.io/trpl-zh-cn/)
 * [Rust标准库](https://doc.rust-lang.org/std/index.html)、[实例教程](https://rustwiki.org/zh-CN/rust-by-example/)
@@ -17,12 +16,11 @@
 
 ### 派森项目<hr>
 
-* [Spider_Collection](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E7%88%AC%E8%99%AB%E6%97%A5%E8%AE%B0)
 * [quick_learn](https://github.com/Lns-XueFeng/quick_learn)
 * [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
 * [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
 * [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
-* [Blog1](https://github.com/Lns-XueFeng/WebProjects/tree/master/Blog1)
+* [WebProjects](https://github.com/Lns-XueFeng/WebProjects)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [Blog3](https://github.com/Lns-XueFeng/Blog3)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
@@ -41,6 +39,19 @@
 * [Flask微框架](https://github.com/Lns-XueFeng/LearnNoStopping/tree/main/Python%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Flask)
 * [MySQL](https://github.com/Lns-XueFeng/LearnNoStopping/blob/main/Python%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/2.5.%E6%95%B0%E6%8D%AE%E5%BA%93/3.MySQL_for_Python.md)
 
+### 第三方库<hr>
+* [Requests](https://github.com/psf/requests)
+* [viztracer](https://github.com/gaogaotiantian/viztracer)
+* [UIAutomation](https://github.com/chenxu7601257/UIAutomation)
+* [Pillow](https://github.com/python-pillow/Pillow)
+* [Scrapy](https://github.com/scrapy/scrapy)
+* [Feapder](https://github.com/Boris-code/feapder)
+* [Flask](https://github.com/Boris-code/feapder)
+* [Flask-SQLAlchemy](https://github.com/pallets-eco/flask-sqlalchemy)
+* [Jinja](https://github.com/pallets/jinja)
+* [Werkzeug](https://github.com/pallets/werkzeug)
+* [rustlings](https://github.com/rust-lang/rustlings)
+
 ### 实用工具<hr>
 
 * [GitBranch](https://learngitbranching.js.org/)
@@ -57,4 +68,4 @@
 * [微积分的力量](https://book.douban.com/subject/35292688/)
 
 
-#### 目前感兴趣的：Rust, Bootstrap, Werkzeug、TrueGrid、Ls-DYNA
+#### 目前正在持续研究的：Rust, Bootstrap, Werkzeug
