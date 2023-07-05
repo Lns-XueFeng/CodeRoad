@@ -46,9 +46,9 @@
 * [Scrapy](https://github.com/scrapy/scrapy)
 * [Feapder](https://github.com/Boris-code/feapder)
 * [Flask](https://github.com/Boris-code/feapder)
-* [Flask-SQLAlchemy](https://github.com/pallets-eco/flask-sqlalchemy)
 * [Jinja](https://github.com/pallets/jinja)
 * [Werkzeug](https://github.com/pallets/werkzeug)
+* [Django](https://github.com/django/django)
 * [rustlings](https://github.com/rust-lang/rustlings)
 
 ### 扩展阅读<hr>
