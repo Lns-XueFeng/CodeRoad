@@ -46,7 +46,6 @@
 * [Jinja](https://github.com/pallets/jinja)
 * [Werkzeug](https://github.com/pallets/werkzeug)
 * [Django](https://github.com/django/django)
-* [rustlings](https://github.com/rust-lang/rustlings)
 
 ### 扩展阅读<hr>
 
@@ -57,4 +56,4 @@
 * [微积分的力量](https://book.douban.com/subject/35292688/)
 
 
-#### 目前正在持续研究的：Rust, Bootstrap, Werkzeug
+#### 目前正在持续研究的：Bootstrap, FLask, Django, Werkzeug
