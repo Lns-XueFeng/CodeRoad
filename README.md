@@ -1,7 +1,4 @@
 ### 编程基础<hr>
-
-* [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
-* [C语言基础语法](https://wangdoc.com/clang/)
 * [数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)
 * [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
 * [操作系统导论](https://book.douban.com/subject/33463930/)
@@ -9,8 +6,8 @@
 
 ### 编程语言<hr>
 
-* [Rust语言基础](https://kaisery.github.io/trpl-zh-cn/)
-* [Rust标准库](https://doc.rust-lang.org/std/index.html)、[实例教程](https://rustwiki.org/zh-CN/rust-by-example/)
+* [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
+* [C语言基础](https://wangdoc.com/clang/)、[Microsoft程序文档](https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170)
 * [Python语言基础](https://docs.python.org/zh-cn/3/tutorial/index.html)
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
 
@@ -23,7 +20,7 @@
 * [WebProjects](https://github.com/Lns-XueFeng/WebProjects)
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
-* [FengWeb](https://github.com/Lns-XueFeng/FengWeb)-ING
+* [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)-ING
 
 ### 网站开发<hr>
