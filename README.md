@@ -21,7 +21,8 @@
 * [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
-* [Feasp](https://github.com/Lns-XueFeng/Feasp)-ING
+* [Feasp](https://github.com/Lns-XueFeng/Feasp)
+* [MiniWeb](https://github.com/Lns-XueFeng/MiniBlog)
 
 ### 网站开发<hr>
 
@@ -30,10 +31,10 @@
 * [Bootstrap框架](https://v3.bootcss.com/)
 * [互联网协议](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)、[TCP/IP](https://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 * [HTTP协议入门](https://www.ruanyifeng.com/blog/2016/08/http.html)
-* [WebServerNotes](https://github.com/Lns-XueFeng/KnowWebServer)
+* [KnowWebServer](https://github.com/Lns-XueFeng/KnowWebServer)
 * [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
-* [FlaskNotes](#)
-* [MySQLNotes](#)
+* [HelloFlask](https://github.com/Lns-XueFeng/HelloFlask)
+* [SQLForMySQL](https://github.com/Lns-XueFeng/CodeRoad/blob/master/sql_for_mysql.md)
 
 ### 第三方库<hr>
 * [Requests](https://github.com/psf/requests)
