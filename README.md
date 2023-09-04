@@ -1,5 +1,5 @@
 ### 编程基础<hr>
-* [数据结构与算法](https://github.com/Lns-XueFeng/Algorithm)
+* [数据结构与算法](https://github.com/Lns-XueFeng/PyAlgorithm)
 * [编码（隐匿在计算机下的语言）](https://book.douban.com/subject/4822685/)
 * [操作系统导论](https://book.douban.com/subject/33463930/)
 * [计算机网络(自顶向下方法)](https://book.douban.com/subject/30280001/)
