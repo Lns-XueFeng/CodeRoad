@@ -22,7 +22,6 @@
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)
-* [MiniWeb](https://github.com/Lns-XueFeng/MiniBlog)
 
 ### 网站开发<hr>
 
