@@ -7,7 +7,7 @@
 ### 编程语言<hr>
 
 * [汇编语言入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
-* [C语言基础](https://wangdoc.com/clang/)、[C++语言基础](https://learncpp-cn.github.io/](https://www.nowcoder.com/tutorial/10003/7bdcb36b1ff74114b026c46b7ac64ac1)
+* [C语言基础](https://wangdoc.com/clang/)、[C++语言基础](https://www.nowcoder.com/tutorial/10003/7bdcb36b1ff74114b026c46b7ac64ac1)
 * [Python语言基础](https://docs.python.org/zh-cn/3/tutorial/index.html)
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
 
