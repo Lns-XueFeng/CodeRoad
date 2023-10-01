@@ -57,4 +57,4 @@
 * [微积分的力量](https://book.douban.com/subject/35292688/)
 
 
-#### 目前正在持续研究的：C++, FLask, Werkzeug, Network
+#### 目前正在持续研究的：JavaScript, FLask, Werkzeug
