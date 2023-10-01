@@ -10,6 +10,7 @@
 * [C语言基础](https://wangdoc.com/clang/)、[C++语言基础](https://www.nowcoder.com/tutorial/10003/7bdcb36b1ff74114b026c46b7ac64ac1)
 * [Python语言基础](https://docs.python.org/zh-cn/3/tutorial/index.html)
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
+* [JavaScript教程](https://zh.javascript.info/)
 
 ### 派森项目<hr>
 
