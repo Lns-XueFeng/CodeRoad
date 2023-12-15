@@ -23,6 +23,7 @@
 * [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)
+* [EPiano](https://github.com/Lns-XueFeng/EPiano)
 
 ### 网站开发<hr>
 
@@ -47,6 +48,9 @@
 * [Jinja](https://github.com/pallets/jinja)
 * [Werkzeug](https://github.com/pallets/werkzeug)
 * [Django](https://github.com/django/django)
+* [Musicpy](https://github.com/django/musicpy)
+* [PyQt](https://maicss.com/pyqt/)
+* [Matplotlib](https://github.com/django/matplotlib)
 
 ### 扩展阅读<hr>
 
@@ -55,6 +59,8 @@
 * [史蒂夫-乔布斯传](https://book.douban.com/subject/25810506/)
 * [代码大全2](https://book.douban.com/subject/35216782/)
 * [微积分的力量](https://book.douban.com/subject/35292688/)
+* [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
+* [摩托车修理店的未来工作哲学](https://book.douban.com/subject/25885921/)
 
 
-#### 目前正在持续研究的：JavaScript, FLask, Werkzeug
+#### 目前正在研究的：Roblox, Musicpy, PyQt5
