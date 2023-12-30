@@ -24,6 +24,7 @@
 * [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
 * [Feasp](https://github.com/Lns-XueFeng/Feasp)
 * [EPiano](https://github.com/Lns-XueFeng/EPiano)
+* [keyplay](https://github.com/Lns-XueFeng/keyplay)
 
 ### 网站开发<hr>
 
@@ -63,4 +64,4 @@
 * [摩托车修理店的未来工作哲学](https://book.douban.com/subject/25885921/)
 
 
-#### 目前正在研究的：Roblox, Musicpy, PyQt5
+#### 目前正在研究的：Dive into JavaScript, Musicpy
