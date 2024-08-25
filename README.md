@@ -12,20 +12,6 @@
 * [Python标准库](https://docs.python.org/zh-cn/3/library/index.html)、[实例教程](https://learnku.com/docs/pymotw)
 * [JavaScript教程](https://zh.javascript.info/)
 
-### 派森项目<hr>
-
-* [quick_learn](https://github.com/Lns-XueFeng/quick_learn)
-* [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
-* [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
-* [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
-* [WebProjects](https://github.com/Lns-XueFeng/WebProjects)
-* [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
-* [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
-* [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
-* [Feasp](https://github.com/Lns-XueFeng/Feasp)
-* [EPiano](https://github.com/Lns-XueFeng/EPiano)
-* [keyplay](https://github.com/Lns-XueFeng/keyplay)
-
 ### 网站开发<hr>
 
 * [HTML-CSS-JS](https://github.com/Lns-XueFeng/LearnNoStoppingWeb/tree/master/html-css-javascript)
@@ -37,6 +23,22 @@
 * [WerkzeugNotes](https://github.com/Lns-XueFeng/WerkzeugNotes)
 * [HelloFlask](https://github.com/Lns-XueFeng/HelloFlask)
 * [SQLForMySQL](https://github.com/Lns-XueFeng/CodeRoad/blob/master/sql_for_mysql.md)
+
+### 派森项目<hr>
+
+* [quick_learn](https://github.com/Lns-XueFeng/quick_learn)
+* [ColorfulProjects](https://github.com/Lns-XueFeng/ColorfulProjects)
+* [ViliWeb](https://github.com/Lns-XueFeng/ViliWeb)
+* [MusicSpider](https://github.com/Lns-XueFeng/MusicSpider)
+* [WebProjects](https://github.com/Lns-XueFeng/WebProjects)
+* [ToRidQQ](https://github.com/Lns-XueFeng/ToRidQQ)
+* [MagicMethod](https://github.com/Lns-XueFeng/MagicMethod)
+* [FengWeb](https://github.com/Lns-XueFeng/FengWeb)
+* [Feasp](https://github.com/Lns-XueFeng/Feasp)
+* [miniblog](https://github.com/Lns-XueFeng/miniblog)
+* [EPiano](https://github.com/Lns-XueFeng/EPiano)
+* [keyplay](https://github.com/Lns-XueFeng/keyplay)
+* [weldwin](https://github.com/Lns-XueFeng/weldwin)
 
 ### 第三方库<hr>
 * [Requests](https://github.com/psf/requests)
@@ -61,7 +63,7 @@
 * [代码大全2](https://book.douban.com/subject/35216782/)
 * [微积分的力量](https://book.douban.com/subject/35292688/)
 * [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
-* [摩托车修理店的未来工作哲学](https://book.douban.com/subject/25885921/)
+* [牧羊少年奇幻之旅](https://book.douban.com/subject/27116268/)
 
 
-#### 目前正在研究的：Dive into JavaScript, Musicpy
+#### 目前正在学习MV： C++ -> Halcon -> QT -> OpenCV
