@@ -66,4 +66,4 @@
 * [牧羊少年奇幻之旅](https://book.douban.com/subject/27116268/)
 
 
-#### 目前正在学习MV： C++ -> Halcon -> QT -> OpenCV
+#### 目前正在学习MV： C++ -> QT -> OpenCV
