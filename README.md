@@ -65,5 +65,4 @@
 * [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
 * [牧羊少年奇幻之旅](https://book.douban.com/subject/27116268/)
 
-
-#### 目前正在学习MV： C++ -> QT -> OpenCV
+#### 嵌入式软件（MCU方向）学习ing: C/C++ -> 51单片机 -> ...
